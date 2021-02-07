@@ -10,3 +10,5 @@ The first question uses an implementation of AES. The example program is set up 
 
 use the example program with the following command: `python3 aes_test.py '<your_string>'`
 
+## Q2
+The second question uses an implementation of RSA to create a private key. It is used in an example to generate a key, and that key is then read and if the correct passphrase is given, the example will run successfully. The password is hard-coded into the example, so to run this example simply enter the command: `python3 rsa_test.py`
