@@ -1,5 +1,7 @@
 # AES & RSA Test
 
+Utilizes AES and RSA in a python environment to simulate sending encrypted messages
+
 ## Requirements
 The implementations of the encryption algorithms are implemented in python. The examples created require python 3.x
 
