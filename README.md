@@ -1,4 +1,4 @@
-# CS564 HW1 - Michael Probst
+# AES & RSA Test
 
 ## Requirements
 The implementations of the encryption algorithms are implemented in python. The examples created require python 3.x
